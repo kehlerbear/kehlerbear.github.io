@@ -1,0 +1,18 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh filename="../rim_barrel2holesup.stl" idInFile="-1" label="rim_barrel2holesup.stl" visible="1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" solidColor="192 192 192 255" boxColor="234 234 234 255" wireColor="64 64 64 255" pointColor="252 233 79 255" pointSize="3">110001000000000000000010000001010100000010100000010100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh filename="../rimplate.stl" idInFile="-1" label="rimplate.stl" visible="1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" solidColor="192 192 192 255" boxColor="234 234 234 255" wireColor="64 64 64 255" pointColor="252 233 79 255" pointSize="3">100001000000000000000000000001010100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
